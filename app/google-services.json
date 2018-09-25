@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "478127477042",
+    "firebase_url": "https://mydummyotpapp.firebaseio.com",
+    "project_id": "mydummyotpapp",
+    "storage_bucket": "mydummyotpapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478127477042:android:b3443cf8fed7105d",
+        "android_client_info": {
+          "package_name": "com.example.dilshad.dummyotpapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478127477042-ltlgs9gumr0kg364kqt6tuffn67tigil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dilshad.dummyotpapp",
+            "certificate_hash": "db50568263587d2c893a23db4f285727099b221c"
+          }
+        },
+        {
+          "client_id": "478127477042-3vk68jkc0v63e2q4329qodlj497t9btg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF4504QySrNGj4VMmswzicgBZy7bY4XPI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478127477042-3vk68jkc0v63e2q4329qodlj497t9btg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
